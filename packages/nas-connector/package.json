@@ -1,0 +1,13 @@
+{
+  "name": "@openclaw/nas-connector",
+  "version": "0.1.0",
+  "description": "JisuNAS connector for OpenClaw",
+  "main": "jisu-api.js",
+  "scripts": {
+    "test": "node jisu-api.js test"
+  },
+  "dependencies": {
+    "ssh2": "^1.15.0"
+  },
+  "license": "MIT"
+}
